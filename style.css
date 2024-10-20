@@ -13,7 +13,7 @@ body{
   color: #FFFFFF;
 }
 .logo{
-  background-image: url(../poto/logo.png);
+  background-image: url(./poto/logo.png);
   background-size: cover;
   width: 35px;
   height: 36px;
@@ -35,7 +35,7 @@ body{
 .searchicon{
   border-radius: 10% 20px solid #FFFFFF;
   background-color: rgb(0, 0, 0);
-  background-image: url(../poto/searchicon.png);
+  background-image: url(./poto/searchicon.png);
   background-size: contain;
   margin-left: 70px;
   height: 26px;
@@ -63,7 +63,7 @@ body{
   height: 35px;
   width: 35px;
   background-color: black;
-  background-image: url(/poto/profile.png);
+  background-image: url(./poto/profile.png);
   background-size: contain;
   
 }
@@ -80,7 +80,7 @@ body{
   height: 35px;
   width: 35px;
   background-color: black;
-  background-image: url(/poto/wishlist.png);
+  background-image: url(./poto/wishlist.png);
   background-size: contain;
   
 }
@@ -98,7 +98,7 @@ body{
   height: 35px;
   width: 35px;
   background-color: black;
-  background-image: url(/poto/bag.png);
+  background-image: url(./poto/bag.png);
   background-size: contain;
   
 }
@@ -111,7 +111,7 @@ body{
 .heropage{
   height: 200px;
   width: 965px;
-  background-image: url(../poto/heropage.jpg);
+  background-image: url(./poto/heropage.jpg);
   background-size: cover;
 }
 
