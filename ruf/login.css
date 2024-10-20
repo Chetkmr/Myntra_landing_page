@@ -1,0 +1,77 @@
+body{
+  background-color: #EFE3B0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainbox {
+  width: 600px;
+  height: 900px;
+  justify-content: space-evenly;
+}
+
+.loginbix{
+  width: 500px;
+  height: 800px;
+  background-color: #EBC00A;
+  margin: 50px 100px 100px 50px;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon{
+  display: flex;
+  justify-content: center;
+  padding-top: 130px;
+}
+
+.google{
+  
+  border-radius: 50px;
+  background-color: black;
+  grid-row: 20px;
+  margin-right: 25px;
+}
+
+.facebook{
+  
+  border-radius: 50px;
+  background-color: black;
+}
+
+.mainlogin{
+  width: 300px;
+  height: 300px;
+  background-color: #EBC09A;
+  justify-content: center;
+  margin: 75px 150px 150px 100px;
+}
+.mainlogin p{
+  font-size: 25px;
+  padding: 10px 100px 0px 120px;
+}
+
+.text{
+ height: 30px;
+ width: 190px;
+ border: 8px solid #7A85FF;
+ border-radius: 15px;
+ margin-top: 50px;
+}
+
+.password{
+ height: 30px;
+ width: 190px;
+ border: 8px solid #BF67DD;
+ border-radius: 15px;
+}
+
+button{
+  height: 35px;
+  width: 75px;
+  border: 3px solid #E3B271;
+ border-radius: 15px;
+}
+
